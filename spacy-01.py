@@ -8,7 +8,7 @@ import spacy
 nlp = spacy.load("es_core_news_sm")
 
 # Process whole documents
-text = ("Cuando Sebastian Thrun iniciú su trabajo en vehículos "
+text = ("Cuando Sebastian Thrun inició su trabajo en vehículos "
         "auto-conducidos en Google el 2007, pocas personas fuera "
         "de la compañía lo tomaron en serio. “Puedo decir que muchos "
         "altos ejecutivos de las principales compañías de vehículos "
